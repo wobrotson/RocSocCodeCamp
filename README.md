@@ -3,7 +3,7 @@
 ## Summary
 This is a repository of resources for teaching basic programming skills to geoscientists in the Python programming language, which was created for the University College Dublin Geological Society (RocSoc) as part of the May 2021 'CodeCamp for Geoscientists'. The resources contained within aim to provide a brief overview of the fundamentals of geoscience data manipulation, analysis and visualisation in Python and also provide various resources for following up and expanding knowledge of the topic.
 
-The resources are not a comprehensive guide to learning Python and this is not their intention. Computer coding ability is best gained by regular practice, and there are a huge wealth of options available for continuing coding and building upon what is covered here, as detailed in the 'AdditionalResources.md' file. *link to file when created*
+The resources are not a comprehensive guide to learning Python and this is not their intention. Computer coding ability is best gained by regular practice, and there are a huge wealth of options available for continuing coding and building upon what is covered here, as detailed in ['AdditionalResources.md'](https://github.com/wobrotson/RocSocCodeCamp/blob/main/CodeCampFurtherInfo/AdditionalResources.md).
 
 ## Programming environment
 The content of this repository is a self-contained iPython coding environment, which uses [Jupyter Notebooks](https://jupyter.org/), an interactive web-based programming environment, to write and run Python code. The entire repository can be loaded and run using the Binder platform. The following link provides access to the coding environment in a browser:
@@ -14,7 +14,7 @@ Alternatively, simply copy and paste the repository URL into the [Binder launche
 
 Binder requires regular action within the coding environment to maintain and save any code that you are running. You should pay attention to this to ensure you don't lose any code you write during the sessions. I recommend doing something on the page (eg typing some code or creating a new code cell) **every 10 minutes at least**. To work on the material more intermittently (eg every few hours or days) and save everything you do, it's much better to download this repository to your machine and work on it there.
 
-For those wishing to use the repository materials on their machine locally, please follow the instructions in the file 'GettingAnacondaOnMyPC.md' *to be created; link to file when done*. All the notebooks in this repository run on an **Anaconda3 environment** defined in `codecamp_condaenv.yml` (see folder `codecamp_conda_environment`).
+For those wishing to use the repository materials on their machine locally, please follow the instructions in the file ['GettingAnacondaOnMyPC.md'](https://github.com/wobrotson/RocSocCodeCamp/blob/main/CodeCampFurtherInfo/AdditionalResources.md). All the notebooks in this repository run on an **Anaconda3 environment** defined in `codecamp_condaenv.yml` (see folder `codecamp_conda_environment`).
 The notebooks were developed and tested on Windows 10 and Ubuntu 18.04 using Python3 (version: 3.6+).
 
 ## Content
