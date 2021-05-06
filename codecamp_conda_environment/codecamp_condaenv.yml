@@ -1,0 +1,10 @@
+name: codecamp2021
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - numpy
+  - scipy
