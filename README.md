@@ -12,7 +12,9 @@ https://mybinder.org/v2/gh/wobrotson/RocSocCodeCamp/HEAD
 
 Alternatively, simply copy and paste the repository URL into the [Binder launcher](https://binder.mybinder.ovh/) to build an environment for executing the codes.
 
-Binder requires regular action within the coding environment to maintain and save any code that you are running. You should pay attention to this to ensure you don't lose any code you write during the sessions. I recommend doing something on the page (eg typing some code or creating a new code cell) **every 10 minutes at least**. To work on the material more intermittently (eg every few hours or days) and save everything you do, it's much better to download this repository to your machine and work on it there.
+Binder requires regular action within the coding environment to maintain and save any code that you are running. You should pay attention to this to ensure you don't lose any code you write during the sessions. I recommend doing something on the page (eg typing some code or creating a new code cell) **every 10 minutes at least**. You may notice in the browser tab that a 'timer' symbol appears - this is telling you to be active in the kernel. You may encounter an error message 'dead kernel' asking you to restart the kernel - if you do this quickly enough any changes you have made will be preserved.
+
+To work on the material more intermittently (eg every few hours or days) and save everything you do, it's much better to download this repository to your machine and work on it there.
 
 For those wishing to use the repository materials on their machine locally, please follow the instructions in the file ['GettingAnacondaOnMyPC.md'](https://github.com/wobrotson/RocSocCodeCamp/blob/main/CodeCampFurtherInfo/AdditionalResources.md). All the notebooks in this repository run on an **Anaconda3 environment** defined in `codecamp_condaenv.yml` (see folder `codecamp_conda_environment`).
 The notebooks were developed and tested on Windows 10 and Ubuntu 18.04 using Python3 (version: 3.6+).
@@ -21,7 +23,7 @@ The notebooks were developed and tested on Windows 10 and Ubuntu 18.04 using Pyt
 Session 1 covers the fundamentals of Python coding in the Jupyter Notebook environment. Topics covered are:
 
 1. Jupyter notebook format and basic use;
-2. Fundamental python coding concepts: variables, expressions, operators, data types and structures;
+2. Fundamental Python coding concepts: variables, expressions, operators, data types and structures;
 3. Flow control: 'for' loops and 'if' statements;
 4. Using and writing functions;
 5. Importing and using modules.
