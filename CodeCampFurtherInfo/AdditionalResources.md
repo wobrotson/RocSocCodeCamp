@@ -14,6 +14,7 @@ Fundamental Python Coding Concepts
 * [Python Wiki](https://wiki.python.org/moin/FrontPage)
 * [Overview of data types in Python](https://realpython.com/python-data-types/)
 * [Guide to native Python data structures](https://realpython.com/python-data-structures/)
+* [Strings and character data in Python](https://realpython.com/python-strings/)
 * [Definitive Iteration ('for' loops)](https://realpython.com/python-for-loop/#a-survey-of-definite-iteration-in-programming)
 * [Conditional Flow control ('if' statements)](https://docs.python.org/3/tutorial/controlflow.html)
 * [Defining your own Python function](https://realpython.com/defining-your-own-python-function/)
