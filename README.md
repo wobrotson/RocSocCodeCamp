@@ -23,8 +23,7 @@ Session 1 covers the fundamentals of Python coding in the Jupyter Notebook envir
 1. Jupyter notebook format and basic use;
 2. Fundamental Python coding concepts: variables, expressions, operators, data types and structures;
 3. Flow control: 'for' loops and 'if' statements;
-4. Using and writing functions;
-5. Importing and using modules.
+4. Using and writing functions.
 
 Each of the topics is presented in it's own notebook, with an exercise notebook to be optionally completed at the end.
 
