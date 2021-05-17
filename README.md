@@ -31,7 +31,7 @@ Session 1 covers the fundamentals of Python coding in the Jupyter Notebook envir
 
 Each of the topics is presented in it's own notebook.
 
-Session 2 is a worked example of how to take a sample earth science dataset and transform it into a publishable result (data analysis, visualisation and interpretation). The dataset we are working with here is a vein transect from Zambia, and the workflow for the session is as follows:
+Session 2 is a worked example of how to take a sample earth science dataset and transform it into a publishable result (data analysis, visualisation and interpretation). The dataset we are working with here is a series of quantitative measurements from a vein transect from Zambia, and the workflow for the session is as follows:
 
 1. Reading data files into Python;
 2. Analysing the data with the NumPy and Pandas libraries;
@@ -50,6 +50,8 @@ All authors are based at University College Dublin in the School of Earth Scienc
 ## Acknowledgments
 
 The content of Session 1 contains modifications of materials within the repository ['Programming for GIS: teaching resources'](https://github.com/andrea-ballatore/teaching-programming-for-gis) which was written by [Andrea Ballatore](https://aballatore.space) (Birkbeck, University of London) and which is made available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License.
+
+Additionally, Session 2 makes use of some figures from the following publication: Influence of layering on vein systematics in line samples. Gillespie et al., 1999. doi: https://doi.org/10.1144/GSL.SP.1999.155.01.05
 
 ## License 
 
