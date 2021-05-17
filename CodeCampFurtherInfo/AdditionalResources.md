@@ -4,6 +4,7 @@
 * [Jupyter Official Documentation](https://jupyter.org/documentation)
 * [Jupyter Notebooks Cheatsheet](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
 * [Your First Jupyter Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - also covers a bit of pandas data wrangling and matplotlib plotting
+* [Binder documentation](https://mybinder.readthedocs.io/en/latest/index.html)
 
 ### Markdown Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) from Github
