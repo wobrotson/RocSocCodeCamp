@@ -21,7 +21,7 @@ It is possible to 'save' your work in Binder within the browser window to return
 To work on the material more intermittently (eg every few hours or days) and save everything you do, it's much better to download this repository to your machine and work on it there. For those wishing to use the repository materials on their machine locally, please follow the instructions in the file ['GettingAnacondaOnMyPC.md'](https://github.com/wobrotson/RocSocCodeCamp/blob/main/CodeCampFurtherInfo/AdditionalResources.md). 
 
 All the notebooks in this repository run on an **Anaconda3 environment** defined in `environment.yml`.
-The notebooks were developed and tested on Windows 10 and Ubuntu 18.04 using Python3 (version: 3.6+).
+The notebooks were developed and tested on Windows 10 and Ubuntu 18.04 using Python3 (version: 3.9).
 
 ## Content
 Session 1 covers the fundamentals of Python coding in the Jupyter Notebook environment. Topics covered are:

@@ -54,7 +54,7 @@ Issues will probably arise if you have spaces or weird characters in your folder
 
 ```shell
 >> conda init
->> conda env create -f codecamp_conda_environment\codecamp_condaenv.yml
+>> conda env create -f environment.yml
 ```
 
 It will now take a few minutes to download all the packages, although it can sometimes take a lot longer.

@@ -2,7 +2,7 @@ name: codecamp2021
 channels:
   - conda-forge
 dependencies:
-  - python=3.6
+  - python=3.9
   - jupyterlab
   - pandas
   - matplotlib
