@@ -1,3 +1,2 @@
-
-# ignore all notebooks containing answers, stored in subdirectories named 'answers'
- answers/
+# ignore all subdirectories named 'answers'
+answers/
